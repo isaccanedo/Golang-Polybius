@@ -1,0 +1,2 @@
+# Golang-Polybius
+:lock: O quadrado de Políbio, também conhecido como o tabuleiro de damas de Políbio, é um dispositivo inventado pelos antigos gregos Cleoxeno e Democleito, e que ficou famoso pelo historiador e estudioso Políbio. [1] O dispositivo é usado para fracionar caracteres de texto simples para que possam ser representados por um conjunto menor de símbolos, o que é útil para telegrafia, esteganografia e criptografia.
